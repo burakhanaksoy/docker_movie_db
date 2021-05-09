@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: gcc7
+Version: 0.0.9
+Summary: GCC v7 binaries
+Home-page: https://github.com/bh107/python-gcc
+Author: Mads R. B. Kristensen
+Author-email: madsbk@gmail.com
+License: GPL
+Keywords: gcc
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Multimedia
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+
+# python-gcc
+GCC binraries
+
+
